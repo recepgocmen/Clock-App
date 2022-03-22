@@ -1,2 +1,1 @@
-# React.JS-Clock-Hook-Practice
-Created with CodeSandbox
+A clock app built with ReactJS by using Hooks.
